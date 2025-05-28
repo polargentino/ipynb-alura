@@ -1,3 +1,12 @@
-data/*.csv
-data/*.json
-*.ipynb_checkpoints/
+# Ignorar archivos de datos en todo el proyecto
+*.csv
+*.json
+*.webp
+*.zip
+*.xls*
+
+# Ignorar checkpoints de Jupyter
+**/.ipynb_checkpoints/
+
+# (opcional) Carpeta de datos entera si no quieres subir nada de ahí
+data/
