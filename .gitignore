@@ -1,7 +1,7 @@
 # Ignorar archivos de datos en todo el proyecto
 *.csv
 *.json
-*.webp
+#*.webp
 *.zip
 *.xls*
 
