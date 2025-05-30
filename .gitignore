@@ -4,6 +4,8 @@
 #*.webp
 *.zip
 *.xls*
+*.xml
+*.html
 
 # Ignorar checkpoints de Jupyter
 **/.ipynb_checkpoints/
